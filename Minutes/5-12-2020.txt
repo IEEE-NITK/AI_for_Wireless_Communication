@@ -11,7 +11,6 @@ Tasks for mentees
 -Go through the research papers
 -Learn LSTM
 -Study the architecture of the framework used in "Channel state prediction using DL approach" project.
-
 Deadline : 8-12-2020
 
 Next meet is scheduled on 8-12-2020, Tuesday.
