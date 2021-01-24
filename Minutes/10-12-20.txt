@@ -1,0 +1,16 @@
+2nd Meet
+
+Mentors: S.Shashank Holla, Aditya Jayan 
+Mentees: P.Ramyashri, Chandan Kumar 
+
+-Understanding IEEE CTW 2020 Challenge dataset
+-Talk on CSI,MIMO,OFDM by mentors.
+
+Tasks for mentees
+
+-Go through the dataset
+-Learn LSTM from Andrew NG courses
+-Team will get divided so that one can work on transfer learning and other on model from scratch.
+Deadline : 12-12-2020
+
+Next meet is scheduled on 12-12-2020, Tuesday.
