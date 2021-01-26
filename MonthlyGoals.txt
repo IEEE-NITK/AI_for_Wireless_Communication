@@ -1,7 +1,0 @@
-
-
-Tasks for December:
--Go through more relevent research papers
--Familiarise with dataset
--Start building/Learning LSTM Functioning
--Look for viable models / Options to use. Explore options for transfer learning as well.
