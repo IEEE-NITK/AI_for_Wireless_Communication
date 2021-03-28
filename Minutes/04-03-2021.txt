@@ -1,0 +1,5 @@
+- ReDiscussed entire plan and methadology 
+- Worked on preprocessing of input data and clarified what needs to be done
+- Set next task as implementing data preprocessing ( Calculation of amplitude from real
+	and imaginary parts, median filtering , and normalisation) and adding Convolution 
+	layers to Basemodel1 
