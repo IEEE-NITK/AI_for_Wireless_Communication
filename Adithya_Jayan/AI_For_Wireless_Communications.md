@@ -1,12 +1,16 @@
-# Title: AI for Wireless Communication
-
-Description: Using Self-Supervised learning to find User location based on the channel data.
-
+---
+Title: "AI for Wireless Communication"
+Description: "Using Self-Supervised learning to find User location based on the channel data"
 Categories: Diode
+---
 
-###### Mentors: Adithya Jayan, Shashank Holla S
+### Mentors: 
+- Adithya Jayan
+- Shashank Holla S
 
-###### Members: Chandan Kumar, P. Ramyashri 
+### Members: 
+- Chandan Kumar
+- P. Ramyashri 
 
 ## Introduction
 
